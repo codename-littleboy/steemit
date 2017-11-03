@@ -1,0 +1,23 @@
+@-moz-document url-prefix('http://steemit.com/'), url-prefix('https://steemit.com/') {
+.icon-svg {
+    fill: #222!important;
+}
+
+.Header a:hover {
+    color: #000!important;
+}
+
+.articles, .PostsList__post_container {
+    box-shadow: none!important;
+}
+
+a.c-sidebar__link:hover {
+    color: #000!important;
+}
+
+.PostFull__body a, .Comment__body a {
+    color: #333!important;
+    text-decoration: underline!important;
+}
+
+}
